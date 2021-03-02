@@ -1,6 +1,7 @@
 /*
-CBMC Verification of OpenTitan bootcode,
-written based on:
+Verified for PROPERTY 1
+
+Written based on:
 sw/device/rom_ext/docs/manifest.md
 sw/device/mask_rom/mask_rom.c
 sw/device/mask_rom/docs/index.md
